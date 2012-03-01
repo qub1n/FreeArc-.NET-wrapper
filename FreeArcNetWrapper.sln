@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeArcNetWrapper", "FreeArcNetWrapper\FreeArcNetWrapper.csproj", "{95E34A4C-0285-4B17-A292-7F6B69C6E806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeArcNetWrapperExample", "FreeArcNetWrapperExample\FreeArcNetWrapperExample.csproj", "{B135BAC7-B3F1-4431-A92A-EE6733A54659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E34A4C-0285-4B17-A292-7F6B69C6E806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E34A4C-0285-4B17-A292-7F6B69C6E806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E34A4C-0285-4B17-A292-7F6B69C6E806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E34A4C-0285-4B17-A292-7F6B69C6E806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B135BAC7-B3F1-4431-A92A-EE6733A54659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B135BAC7-B3F1-4431-A92A-EE6733A54659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B135BAC7-B3F1-4431-A92A-EE6733A54659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B135BAC7-B3F1-4431-A92A-EE6733A54659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

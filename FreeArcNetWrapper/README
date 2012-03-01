@@ -1,0 +1,12 @@
+------- FreeArc .Net Wrapper library Readme ----------
+
+This library is written to wrap FreeArc library (freeArc.org) in .NET.
+
+This library was tested towards FreeArc 0.666
+
+It provides synchronous and asynchronous calling, progress and error handling.
+
+
+Licence: MIT licence, you can use it for free for non-commercial and commercial use.
+
+2012-02-22, Tomas Kubes, BTL
